@@ -22,3 +22,22 @@ einzelne Stellen eines erschienenen Werkes der Musik in einem selbständigen Wer
 Von der Zitierbefugnis gemäß den Sätzen 1 und 2 umfasst ist die Nutzung einer Abbildung oder sonstigen Vervielfältigung des zitierten Werkes, auch wenn diese selbst durch ein Urheberrecht oder ein verwandtes Schutzrecht geschützt ist.
 
 https://www.gesetze-im-internet.de/urhg/__51.html
+
+
+
+## Projektplan 
+
+0. Guten Projektnamen finden (Ein Funke Geschichte / Spark of History ) 
+1. Identifizierung aller Textstellen, die auf ein Datum oder einen Zeitabschnitt des Buchs hindeuten
+2. Recherche zu geschichtlichen Begebenheiten in Konzentrationslagern während der Endphase des zweiten Weltkriegs und 
+zur Befreiuung dieser
+3. Zusammenbringen von Geschichte mit passenden Textstellen des Buches
+4. Veröffentlichungsstrategie: Häufigkeit der Posts, Anzahl der Posts, Dauer über die gepostet werden soll
+5. Öffentlichkeitsarbeit: Wie kann ich Kenntnis über das Projekt verbreiten, 
+damit nicht einfach nur in die weite Leere des Internets gepostet wird, sondern dies auch von Leuten verfolgt wird
+6. Veröffentlichung
+
+### Weitere Ideen
+
+* Zusätzlich auf BlueSky posten für größere Reichweite
+* Zusätzlich auf Englisch posten 
